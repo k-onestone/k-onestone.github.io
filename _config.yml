@@ -22,7 +22,7 @@ description: "기초부터 시작하는 정보보안 블로그" # used by seo me
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "k-onestone.github.io"
+url: "https://k-onestone.github.io"
 
 github:
   username: "k-onestone" # change to your GitHub username
